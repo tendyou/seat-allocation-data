@@ -1,5 +1,12 @@
 {
-  "students": [],
+  "students": [
+    {
+      "name": "张三"
+    },
+    {
+      "name": "李四"
+    }
+  ],
   "allocations": {},
-  "lastUpdated": "2025-01-01T00:00:00.000Z"
+  "lastUpdated": "2025-09-06T04:14:46.133Z"
 }
