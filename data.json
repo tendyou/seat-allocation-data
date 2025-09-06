@@ -7,6 +7,15 @@
       "name": "李四"
     }
   ],
-  "allocations": {},
-  "lastUpdated": "2025-09-06T04:14:46.133Z"
+  "allocations": {
+    "张三": {
+      "room": "415",
+      "seat": 75
+    },
+    "李四": {
+      "room": "415",
+      "seat": 80
+    }
+  },
+  "lastUpdated": "2025-09-06T04:14:56.960Z"
 }
