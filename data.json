@@ -1,21 +1,5 @@
 {
-  "students": [
-    {
-      "name": "张三"
-    },
-    {
-      "name": "李四"
-    }
-  ],
-  "allocations": {
-    "张三": {
-      "room": "415",
-      "seat": 75
-    },
-    "李四": {
-      "room": "415",
-      "seat": 80
-    }
-  },
-  "lastUpdated": "2025-09-06T04:14:56.960Z"
+  "students": [],
+  "allocations": {},
+  "lastUpdated": "2025-09-06T13:47:16.796Z"
 }
