@@ -490,7 +490,11 @@
     "CHEN ZHIXUAN": {
       "room": "415",
       "seat": 63
+    },
+    "张三": {
+      "room": "417",
+      "seat": 5
     }
   },
-  "lastUpdated": "2025-09-06T15:49:35.260Z"
+  "lastUpdated": "2025-09-06T16:09:24.774Z"
 }
